@@ -93,17 +93,3 @@ function pintarBarra(id_barra, cantidad, indice, interval){
 window.onscroll = function(){
     efectoHabilidades();
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
